@@ -1,3 +1,3 @@
-# @istanbuljs/real-schema
-## Real/Usable JSON and YAML Schemas for nyc and istanbuljs
-The [@istanbuljs/schema](https://github.com/istanbuljs/schema) project contains JavaScript definitions only, which are not useful when composing configuration files in JSON or YAML.  This very lightweight project simply generates JSON and YAML schemas for .nycrc(.json/.yaml/.yml) configuration files, which can be used by the IDE to validate the configuration as well as provide code completion hints.
+# schema.place
+## Real/Usable JSON and YAML Schemas for lazy programmers who define their schemas in JS but then permit JSON and YAML configuration definitions anyway.
+Sometimes projects define schemas in terms of the structure configuration files in terms of a JS class, yet they also often permit the user the alternatives of defining their configuration files in JSON, YAML or another markup language, which are not useful when composing configuration files in anything but their original JavaScript.  This very lightweight project generates JSON and YAML schemas (and may add support for more if requested) a given JavaScript file either from fie file system, as a literal string, or from a GitHub repo which can be used by the IDE to validate the configuration as well as provide code completion hints.
