@@ -1,2 +1,2 @@
-stylesheet: _includes/style.css
-customstylesheet: _includes/custom.css
+stylesheet: _includes/_styles/style.css
+customstylesheet: _includes/_styles/custom.css
