@@ -1,5 +1,5 @@
-stylesheet: _includes/_styles/style.css
-customstylesheet: _includes/_styles/custom.css
+stylesheet: _styles/style.css
+customstylesheet: _styles/custom.css
 
 defaults:
  -
