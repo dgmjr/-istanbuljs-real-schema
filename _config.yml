@@ -7,4 +7,7 @@ defaults:
       layout: "default"
   scope:
     name: "readme.md"
-    permalink: "index.htm"
+    type: "pages"
+    values:
+      permalink: "index.htm"
+      layout: "default"
