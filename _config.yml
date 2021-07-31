@@ -11,3 +11,5 @@ defaults:
     values:
       permalink: "index.htm"
       layout: "default"
+
+theme: jekyll-theme-midnight
