@@ -1,2 +1,10 @@
 stylesheet: _includes/_styles/style.css
 customstylesheet: _includes/_styles/custom.css
+
+defaults:
+ -
+  scope:
+    path: ""
+    type: "pages"
+    values:
+      layout: "default"
