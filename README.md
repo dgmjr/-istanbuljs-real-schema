@@ -1,3 +1,7 @@
+---
+permalink: index.htm
+---
+
 # schema.place
 ## Generate and optionally publish JSON and YAML schemas from existing Java, JavaScript, TypeScript, or C# code and use them to validate your JSON and YAML files
 
