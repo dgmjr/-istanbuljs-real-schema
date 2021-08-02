@@ -13,6 +13,7 @@ defaults:
       layout: "default"
   scope:
     name: "description.md"
+    type: "pages"
      values:
       title: "Description"
 
