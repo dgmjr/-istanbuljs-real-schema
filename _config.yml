@@ -11,5 +11,9 @@ defaults:
     values:
       permalink: "index.htm"
       layout: "default"
+  scope:
+    name: "description.md"
+     values:
+      title: "Description"
 
 theme: jekyll-theme-midnight
