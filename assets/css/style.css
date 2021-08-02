@@ -6,4 +6,4 @@
   font-style: italic;
 }
 
-@import {{ "pages-themes.midnight" }}
+@import { "pages-themes.midnight" }
