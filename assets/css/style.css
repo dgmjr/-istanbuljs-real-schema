@@ -5,3 +5,5 @@
 .url-placeholder {
   font-style: italic;
 }
+
+@import {{ pages.midnight }}
